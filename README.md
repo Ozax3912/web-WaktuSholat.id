@@ -1,0 +1,2 @@
+# web-WaktuSholat.id
+Web
